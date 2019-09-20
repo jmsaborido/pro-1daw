@@ -1,0 +1,1 @@
+[Animal{alias='Ruben', peso=1}, Animal{alias='Juan', peso=2}, Animal{alias='Pepe', peso=3}, Animal{alias='Juan', peso=4}]

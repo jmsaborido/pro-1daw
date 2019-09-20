@@ -1,0 +1,1 @@
+No ya que al estar sobrecargado y recibir el mismo tipo no sabe cual de los dos es, da igual el valor de retorno

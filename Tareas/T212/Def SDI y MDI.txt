@@ -1,0 +1,10 @@
+ MDI (multiple document interface): es una GUI en la cual varias ventanas residen bajo una única ventana 
+padre. Tal tipo de sistemas con frecuencia permiten que las ventanas hijas contengan a su vez subventanas 
+creando jerarquías de anidamiento complejas. Ejemplos: ultimas versiones de Microsoft Office, NetBeans, ..
+
+ SDI (single document interface): es una GUI que solo permite una ventana principal sin ventanas hijas 
+y opcionalmente una serie de ventanas que se muestran de manera independiente a la ventana principal en 
+el escritorio. Ejemplos de aplicaciones que usan SDI: bloc de notas (notepad), paint, wordpad...
+
+
+
